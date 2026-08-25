@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hunclansmp.play.hosting",
-    "port": 53984,
+    "ip": "hunclans1441.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
