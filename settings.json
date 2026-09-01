@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "arteoitsnoob",
+    "username": "hunclanbiryani",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "hunclan01389.mcsh.io",
+    "ip": "hunclansmp524.mcsh.io",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "i love u arteo",
-        "i love u arteo",
-        "i love u arteo"
+        "hi,buddy",
+        "hello,buddy",
+        "plz invite to the people"
       ]
     },
     "chat-log": true,
